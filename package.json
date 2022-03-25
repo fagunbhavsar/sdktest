@@ -7,7 +7,7 @@
     "@tatumio/bch": "^2.0.1-alpha.236",
     "@tatumio/btc": "^2.0.1-alpha.236",
     "@tatumio/celo": "^2.0.1-alpha.236",
-    "@tatumio/eth": "^2.0.1-alpha.236",
+    "@tatumio/eth": "^2.0.1-alpha.245",
     "@tatumio/kcs": "^2.0.1-alpha.236",
     "@tatumio/ltc": "^2.0.1-alpha.236",
     "@tatumio/one": "^2.0.1-alpha.236",
